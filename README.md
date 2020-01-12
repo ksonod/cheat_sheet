@@ -8,3 +8,4 @@ My Python cheat sheet.
 ## [simple_RNN](https://github.com/ksonod/cheat_sheet/blob/master/simple_rnn.ipynb)
 - Description: Simple RNN for a sinusoidal function.
 - Libraries: Keras
+https://i.imgur.com/QZ0HQ2Z.png
