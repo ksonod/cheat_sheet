@@ -19,3 +19,7 @@ My Python cheat sheet.
 ## [newport_delay_stage_basic_python](https://github.com/ksonod/newport_delay_stage_basic_python)
 - Description: Controlling a Newport Delay Line stage.
 - Libraries: pythonnet (using .NET Framework on python)
+
+## [Basic_SQL_on_JupyterNotebook](https://github.com/ksonod/Basic_SQL_on_JupyterNotebook)
+- Description: Showing how to use SQL on Jupyter Notebook.
+- SQLite
