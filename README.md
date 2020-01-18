@@ -15,3 +15,7 @@ My Python cheat sheet.
 - Description: python GUI
 - Libraries: tkinter
 <img src="https://github.com/ksonod/cheat_sheet/blob/master/pictures/gui.png" width="200px">   
+
+## [newport_delay_stage_basic_python]https://github.com/ksonod/newport_delay_stage_basic_python
+- Description: Controlling a Newport Delay Line stage.
+- Libraries: pythonnet (using .NET Framework on python)
