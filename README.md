@@ -14,4 +14,4 @@ My Python cheat sheet.
 ## [gui](https://github.com/ksonod/cheat_sheet/blob/master/gui.py)
 - Description: python GUI
 - Libraries: tkinter
-<img src="https://github.com/ksonod/cheat_sheet/blob/master/pictures/gui.png" width="400px">   
+<img src="https://github.com/ksonod/cheat_sheet/blob/master/pictures/gui.png" width="200px">   
