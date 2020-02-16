@@ -1,7 +1,11 @@
 # cheat_sheet
 My Python cheat sheet.
 
-- FFT
+- [FFT](https://github.com/ksonod/cheat_sheet/blob/master/README.md#fft)
+- [simple_RNN](https://github.com/ksonod/cheat_sheet/blob/master/README.md#simple_RNN)
+- [gui](https://github.com/ksonod/cheat_sheet/blob/master/README.md#gui)
+- [newport_delay_stage_basic_python](https://github.com/ksonod/cheat_sheet/blob/master/README.md#newport_delay_stage_basic_python)
+- [Basic_SQL_on_JupyterNotebook](https://github.com/ksonod/cheat_sheet/blob/master/README.md#Basic_SQL_on_JupyterNotebook)
 
 ## [FFT](https://github.com/ksonod/cheat_sheet/blob/master/FFT.ipynb)
 - Description: Demonstration of FFT for various types of waves.
