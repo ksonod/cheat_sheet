@@ -34,3 +34,7 @@ My Python cheat sheet.
 ## [loading_image](https://github.com/ksonod/cheat_sheet/blob/master/loading_image.ipynb)
 - Description: Showing how to load an image data.
 - Libraries: matplotlib, scikit-image, pillow, OpenCV
+
+## [image_processing](https://github.com/ksonod/cheat_sheet/blob/master/image_processing.ipynb)
+- Description: Image processing, edge detection, denoising
+- Libraries: OpenCV, Pillow skimage
