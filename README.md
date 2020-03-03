@@ -7,6 +7,7 @@ My Python cheat sheet.
 - [newport_delay_stage_basic_python](https://github.com/ksonod/cheat_sheet/blob/master/README.md#newport_delay_stage_basic_python)
 - [Basic_SQL_on_JupyterNotebook](https://github.com/ksonod/cheat_sheet/blob/master/README.md#Basic_SQL_on_JupyterNotebook)
 - [loading_image](https://github.com/ksonod/cheat_sheet/blob/master/README.md#loading_image)
+- [play_sound_pygame](https://github.com/ksonod/cheat_sheet/blob/master/README.md#play_sound_pygame)
 
 ## [FFT](https://github.com/ksonod/cheat_sheet/blob/master/FFT.ipynb)
 - Description: Demonstration of FFT for various types of waves.
@@ -38,3 +39,7 @@ My Python cheat sheet.
 ## [image_processing](https://github.com/ksonod/cheat_sheet/blob/master/image_processing.ipynb)
 - Description: Image processing, edge detection, denoising
 - Libraries: OpenCV, Pillow skimage
+
+## [play_sound_pygame](https://github.com/ksonod/cheat_sheet/blob/master/play_sound_pygame.py)
+- Description: Play sound using pygame
+- Libraries: pygame
