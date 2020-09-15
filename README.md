@@ -6,6 +6,8 @@ My Python cheat sheet.
 - The Scientist and Engineer's guide to Digital Signal Processing (Second Edition) by Steven W. Smith (1999)
 - [Machine Learning](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion) by Andrew Ng (Coursera's course)
 
+- [Statistics](https://github.com/ksonod/my_statistics) (my original notebooks) 
+
 # random lists
 - [FFT](https://github.com/ksonod/cheat_sheet/blob/master/README.md#fft)
 - [simple_RNN](https://github.com/ksonod/cheat_sheet/blob/master/README.md#simple_RNN)
