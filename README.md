@@ -3,9 +3,8 @@ My Python cheat sheet.
 
 # Learning
 - [Deep_learning_with_python](https://github.com/ksonod/deep_learning_with_python) by Francois Chollet (2018)
-- The Scientist and Engineer's guide to Digital Signal Processing (Second Edition) by Steven W. Smith (1999)
+- [The Scientist and Engineer's guide to Digital Signal Processing](https://github.com/ksonod/Scientist_and_Engineers_DSP) (Second Edition) by Steven W. Smith (1999)
 - [Machine Learning](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion) by Andrew Ng (Coursera's course)
-
 - [Statistics](https://github.com/ksonod/my_statistics) (my original notebooks) 
 
 # random lists
