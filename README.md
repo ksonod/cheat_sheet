@@ -1,5 +1,5 @@
 # cheat_sheet
-My Python cheat sheet.
+My cheat sheet.
 
 # Learning
 - [Deep_learning_with_python](https://github.com/ksonod/deep_learning_with_python) by Francois Chollet (2018)
